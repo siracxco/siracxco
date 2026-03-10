@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Siraç
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kame&color=00f3ff&height=200&section=header&text=SIRAC&fontSize=80&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20CANDIDATE&descAlignY=60" />
-</div>
-
-### 📂 SYSTEM_LOG
+### 💻 SYSTEM_PROFILE
 - 🚀 **Mission:** Building high-performance software solutions and futuristic UI/UX.
 - 🔧 **Expertise:** Full-stack development, database architecture, and system automation.
 - 📍 **Base:** Izmir, Turkiye.
@@ -28,10 +24,10 @@
 
 ---
 
-### 📊 ANALYTICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siracxco&show_icons=true&theme=tokyonight&border_radius=10&text_color=00f3ff&bg_color=050505" />
-</p>
+### 📂 FEATURED_PROJECTS
+- ⚡ **DailyOptimize.ps1:** Windows system optimization script for RAM & SSD management.
+- 🌐 **Siber Terminal Portfolio:** High-level web interface with neon aesthetics.
+- 🤖 **JS Translation Portal:** Interactive Turkish learning repository for JavaScript.
 
 ---
 
