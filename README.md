@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Siraç
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kame&color=00f3ff&height=250&section=header&text=SIRAC&fontSize=95&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20CANDIDATE%20//%20IZMIR,%20TR&descAlignY=60" alt="Siraç's Banner" />
+  <img src="https://capsule-render.vercel.app/render?type=kame&color=00f3ff&height=200&section=header&text=SIRAC&fontSize=80&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20CANDIDATE&descAlignY=60" />
 </div>
 
-### 💻 SYSTEM_PROFILE
+### 📂 SYSTEM_LOG
 - 🚀 **Mission:** Building high-performance software solutions and futuristic UI/UX.
 - 🔧 **Expertise:** Full-stack development, database architecture, and system automation.
 - 📍 **Base:** Izmir, Turkiye.
@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ LANGUAGES_AND_TOOLS
-<div align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -24,31 +24,33 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
-</div>
+</p>
 
 ---
 
 ### 📊 ANALYTICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siracxco&show_icons=true&theme=tokyonight&border_radius=10&text_color=00f3ff&bg_color=050505&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siracxco&show_icons=true&theme=tokyonight&border_radius=10&text_color=00f3ff&bg_color=050505" />
 </p>
 
 ---
 
 ### 📡 CONNECT
-<div align="center">
-  <a href="https://github.com/siracxco" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+  <a href="https://github.com/siracxco"><img src="https://img.shields.io/badge/GitHub-siracxco-181717?style=flat-square&logo=github" /></a>
+  <a href="https://x.com/sirac_co"><img src="https://img.shields.io/badge/X-sirac_co-000000?style=flat-square&logo=x" /></a>
+  <a href="https://instagram.com/sirac.co"><img src="https://img.shields.io/badge/Instagram-sirac.co-E4405F?style=flat-square&logo=instagram" /></a>
+</p>
+
+---
+
+### ☕ SUPPORT
+<p align="center">
+  <a href="https://www.buymeacoffee.com/siracxco">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://x.com/sirac_co" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sirac.co" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
+</p>
 
 <div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=siracxco&color=00f3ff&style=flat-square&label=TERMINAL_ACCESS" />
+  <img src="https://komarev.com/ghpvc/?username=siracxco&color=00f3ff&style=flat-square&label=VISITOR_COUNT" />
 </div>
