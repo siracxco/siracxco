@@ -30,15 +30,15 @@
 
 ### 📊 ANALYTICS_STREAM
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siraxco&show_icons=true&theme=tokyonight&border_radius=10&text_color=00f3ff&bg_color=050505" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraxco&layout=compact&theme=tokyonight&border_radius=10&text_color=bc13fe&bg_color=050505" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siracxco&show_icons=true&theme=tokyonight&border_radius=10&text_color=00f3ff&bg_color=050505" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siracxco&layout=compact&theme=tokyonight&border_radius=10&text_color=bc13fe&bg_color=050505" />
 </p>
 
 ---
 
 ### 📡 NETWORK_ACCESS
 <div align="center">
-  <a href="https://github.com/siraxco">
+  <a href="https://github.com/siracxco">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://x.com/sirac_co">
@@ -51,5 +51,5 @@
 
 <div align="center">
   <br />
-  <img src="https://komarev.com/ghpvc/?username=siraxco&color=00f3ff&style=flat-square&label=TERMINAL_ACCESS_COUNT" />
+  <img src="https://komarev.com/ghpvc/?username=siracxco&color=00f3ff&style=flat-square&label=TERMINAL_ACCESS_COUNT" />
 </div>
