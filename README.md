@@ -1,37 +1,33 @@
-<h1 align="center">Merhaba 👋, ben Siraç</h1>
-<h3 align="center">JavaScript, Node.js ve Python kullanarak açık kaynaklı projeler geliştiriyorum.</h3>
+<h1>Merhaba 👋, ben Siraç</h1>
 
-<p align="center">
-Desteğiniz, geliştirmeye ve öğrenmeye devam etmeme yardımcı oluyor.
-</p>
+JavaScript, Node.js ve Python kullanarak açık kaynaklı projeler geliştiriyorum.
 
----
-
-<h3 align="center">Benimle bağlantı kurun</h3>
-
-<p align="center">
-<a href="https://x.com/sirac_co" target="_blank">
-<img src="https://cdn.simpleicons.org/x/white" width="30"/>
-</a>
-<a href="https://instagram.com/sirac.co" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram" width="30"/>
-</a>
-</p>
+🚀 Açık kaynak projeler üretmeyi ve yeni teknolojiler öğrenmeyi seviyorum.
 
 ---
 
-<h3 align="center">Diller ve Araçlar</h3>
+## 🌐 Benimle bağlantı kurun
 
-<p align="center">
+<a href="https://x.com/sirac_co">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="28"/>
+</a>
+
+<a href="https://instagram.com/sirac.co">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="28"/>
+</a>
+
+---
+
+# 🧰 Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
 
 <br/>
 
@@ -44,32 +40,42 @@ Desteğiniz, geliştirmeye ve öğrenmeye devam etmeme yardımcı oluyor.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
 
-</p>
-
 ---
 
-<h3 align="center">GitHub İstatistiklerim</h3>
-
-<p align="center">
+# 📊 GitHub Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=siracxco&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siracxco&layout=compact&theme=tokyonight"/>
 
-</p>
+---
 
-<p align="center">
+# 🔥 Contribution Streak
 
 <img src="https://streak-stats.demolab.com?user=siracxco&theme=tokyonight"/>
 
-</p>
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siracxco&theme=tokyo-night"/>
 
 ---
 
-<h3 align="center">Support</h3>
+# 🏆 GitHub Trophies
 
-<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=siracxco&theme=tokyonight&no-frame=true&row=1"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+---
+
+# ☕ Support
+
 <a href="https://www.buymeacoffee.com/siracxco">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
 </a>
-</p>
