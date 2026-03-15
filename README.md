@@ -13,8 +13,7 @@ JavaScript, Node.js ve Python kullanarak açık kaynaklı projeler geliştiriyor
 </a>
 
 <a href="https://instagram.com/sirac.co">
-<img src="https://skillicons.dev/icons?i=instagram" width="28"/>
-</a>
+<img 
 
 ---
 
